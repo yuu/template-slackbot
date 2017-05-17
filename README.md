@@ -1,5 +1,5 @@
 # template-slackbot
-[![](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://yuu.github.io/license/mit.md)
+[![](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](LICENSE)
 
 project template for [slackbot](https://github.com/lins05/slackbot)
 
