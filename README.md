@@ -39,8 +39,3 @@ python3 -m venv env
 . env/bin/active
 pip install slackbot
 ```
-
-### 3. run bot:
-```
-python ./run.py
-```
