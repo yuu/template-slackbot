@@ -12,7 +12,7 @@ project template for [slackbot](https://github.com/lins05/slackbot)
 
 ### 1. get 'bots' api token from slack app
 ```
-sed -ie 's/API_TOKEN.*/API_TOKEN = "your token"/g' slackbot_settings.py
+sed -ie 's/__REPLACE_YOUR_TOKEN__/your token/g' slackbot_settings.py
 ```
 
 ### 2. run bot
